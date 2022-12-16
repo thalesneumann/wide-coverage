@@ -6,4 +6,5 @@
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="70px">
 <br>
+  <a href="https://thalesneumann.github.io/wide-coverage/">Link</a> para a página
   <img src="https://github.com/thalesneumann/wide-coverage/blob/master/mockup-widecoverage.jpg?raw=true">
